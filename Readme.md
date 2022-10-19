@@ -4,7 +4,7 @@ Actuellement, je n'ai aucune expérience en programmation. Mon expérience profe
 ## Mes attentes envers le cours
 J'aimerais apprendre la base de la programmation et ainsi être capable de créer un mini jeu pour voir où je peux pousser cette compétence. J'aimerais être en mesure de créer une application qui peut être aidante (exemple: une application interractive pour répondre aux questions d'une personne; plateforme d'aide). 
 ## Mes attentes envers le programme
-Je suis ouverte à plusieurs milieux en informatique, dont les principaux sont: amélioration du réseau de la santé, les jeux vidéos, les firmes de logiciels et applications
+Je suis ouverte à plusieurs milieux en informatique, dont les principaux sont: amélioration du réseau de la santé, les jeux vidéos, les firmes de logiciels et applications.
 ### Amélioration du réseau de la santé
 Ayant été exposée au système de la santé pendant 8 ans, je vois qu'il pourrait y avoir une amélioration pour l'accessibilité de l'information communiquée aux patients, surtout via des applications mobiles. Par exemple, une personne qui serait atteinte de sclérose en plaques peut avoir des manifestations neurologiques diverses (peut être difficilement comparée à une autre personne ayant la même maladie) et aucune application gouvernementale peut les orienter à savoir si les symptômes ressentis sont en lien avec la maladie ou non. Le fait d'avoir une application interractive pour les patients les aideraient selon moi à abaisser l'anxiété et ne pas se présenter inutilement aux urgences et moins attendre sur une ligne d'urgence ou d'info-santé.
 ### Jeux vidéos
